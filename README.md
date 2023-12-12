@@ -1,2 +1,2 @@
-# stupid-words-API-public
-My first try to create API with Node &amp; Express (no private DB data)
+# stupid-words-API
+My first try to create API on Express
